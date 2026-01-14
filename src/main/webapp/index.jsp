@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="./assets/css/style.css">
 </head>
 
-<body>
+<body1>
     <!-- ------------------ Navbar ------------------ -->
     <nav class="navbar">
         <img src="./assets/img/logo (1).svg" class="logo" alt="Logo">
